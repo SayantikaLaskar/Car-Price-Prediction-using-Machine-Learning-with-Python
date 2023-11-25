@@ -5,13 +5,13 @@ Welcome to the Car Price Prediction project, where we leverage the power of mach
 ## 📦 Features
 
 - **Data Exploration:** Dive into the dataset to understand key features and patterns.
-- 
+  
 - **Data Preprocessing:** Clean and prepare the data for model training.
-- 
+  
 - **Model Selection:** Experiment with various machine learning algorithms.
-- 
+  
 - **Model Training:** Train the chosen model on the prepared data.
-- 
+  
 - **Evaluation:** Assess the model's performance using relevant metrics.
-- 
+  
 - **Prediction:** Deploy the model to make real-time price predictions.
